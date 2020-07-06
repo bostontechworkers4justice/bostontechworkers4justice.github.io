@@ -15,9 +15,9 @@ As members of the Tech Workers Committee, we are committed to the following valu
 - We are aware of and critical of the manifestations of socioeconomic privilege in our roles as tech workers
 - We root our work in our local community and fighting local struggles.
 - We focus especially on struggles impacted by tech, including:
--- Housing displacement
--- Racial and socioeconomic inequity
--- Masculinity and patriarchy in the workplace
+--  Housing displacement
+--  Racial and socioeconomic inequity
+--  Masculinity and patriarchy in the workplace
 - Although our work is focused on tech workers and the tech world, we support global movements against oppression.
 
 # Vision
