@@ -6,10 +6,12 @@ Boston Tech Workers for Justice (BTWJ), a democratically run all-volunteer commi
 
 ## Current Projects 
 
-- Building Data: COVID-19 has many tech workers working from home, but the building staff who work beside us every day cannot telecommute. We are currently gathering data to share with Jobs with Justice coalition members to make connections between tech workers and building workers who work in the same place. 
+- Equitable Employment: Together with partners at [Resilient Coders](https://medium.com/@delmarsenties/how-to-organize-for-equitable-employment-at-your-tech-company-8e2a07c497aa), we are working to support tech workers in pushing for racial justice in the workplace.
 
 - Workplace Organizing Trainings: BTWJ periodically hosts training sessions with guest trainers to hone our organizing skills.
 
 - Workplace Transparency Pledge: BTWJ created a workplace transparency pledge to place pressure on our employers to improve working conditions. 
 
 - Tech Open Office Hours: We host open office hours for nonprofits and community members to come together and discuss projects and tech needs
+
+If you are interested in learning more about what we do, please [contact us](mailto:btwj@protonmail.com)!
